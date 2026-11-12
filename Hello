@@ -3,5 +3,6 @@ class Hello
 {system.out.println("welcome to devops");
 system.out.println("learning distributed version control system");
 system.out.println("edited fro github account");
+system.out.println("new feature1 added");
 }
 }
