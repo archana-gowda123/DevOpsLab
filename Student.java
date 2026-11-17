@@ -3,5 +3,6 @@ class student{
     {
         System.out.println("student management system");
         System.out.println("student name:ravi");
+System.out.println("error detection");
     }
 }
